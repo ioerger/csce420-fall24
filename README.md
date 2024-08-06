@@ -1,2 +1,2 @@
 # csce420-fall24
-Student Name: <PUT YOUR NAME HERE>
+Student Name: `<PUT_YOUR_NAME_HERE>`
